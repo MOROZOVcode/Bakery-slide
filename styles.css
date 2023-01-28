@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+
+body {
+	font-family: 'Cookie', cursive;
+	overflow: hidden;
+	margin: 0;
+	background-image: linear-gradient(to bottom right, lightblue, #ee82ee);
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.container {
+	width: 100%;
+	display: flex;
+	padding: 0 15px;
+}
+
+.slide {
+	height: 80vh;
+	border-radius: 15px;
+	margin: 8px;
+	cursor: pointer;
+	color: white;
+	flex: 1;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	position: relative;
+	transition: all .5s ease;
+}
+
+.slide div {
+	width: 200px;
+	height: 70px;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	border-radius: 0 15px 0 15px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #520a5298;
+	opacity: 0;
+}
+
+.slide h3 {
+	font-size: 38px;
+
+}
+
+.slide.active {
+	flex: 10;
+}
+
+.slide.active div {
+	opacity: 1;
+	transition: opacity .3s ease-in 0.5s;
+}
+
+@media (max-width: 576px) {
+	.container {
+		flex-direction: column;
+		height: 95vh;
+	}
+
+	.slide {
+		border-radius: 13px;
+		margin: 4px;
+	}
+}
