@@ -60,6 +60,10 @@ body {
 }
 
 @media (max-width: 576px) {
+	body {
+		height: 100%;
+	}
+
 	.container {
 		flex-direction: column;
 		height: 95vh;
