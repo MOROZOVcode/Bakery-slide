@@ -8,27 +8,27 @@
 
 - Скриншоты:
 
-![screenshot](forReadme/Bakery-slide1.png)
+![screenshot](https://github.com/MOROZOVcode/Bakery-slide/blob/main/forReadme/Bakery-slide1.png)
 
-![screenshot](forReadme/Bakery-slide2.png)
+![screenshot](https://github.com/MOROZOVcode/Bakery-slide/blob/main/forReadme/Bakery-slide2.png)
 
-- Скринкасты взаимодействия с элементами:
+- Скринкаст взаимодействия с элементами:
 
-![screencast](forReadme/Bakery-slide.gif)
+![screencast](https://github.com/MOROZOVcode/Bakery-slide/blob/main/forReadme/Bakery-slide.gif)
 
 - Скриншоты (мобильная версия):
 
-<img src="forReadme/Bakery-slide_mobile1.png" alt="screenshot" width="40%"/>
+<img src="https://github.com/MOROZOVcode/Bakery-slide/blob/main/forReadme/Bakery-slide_mobile1.png" alt="screenshot" width="40%"/>
 
 <br>
 
-<img src="forReadme/Bakery-slide_mobile2.png" alt="screenshot" width="40%"/>
+<img src="https://github.com/MOROZOVcode/Bakery-slide/blob/main/forReadme/Bakery-slide_mobile2.png" alt="screenshot" width="40%"/>
 
 <br>
 
-- Скринкасты взаимодействия с элементами (мобильная версия):
+- Скринкаст взаимодействия с элементами (мобильная версия):
 
-<img src="forReadme/Bakery-slide_mobile.gif" alt="screencast" width="40%"/>
+<img src="https://github.com/MOROZOVcode/Bakery-slide/blob/main/forReadme/Bakery-slide_mobile.gif" alt="screencast" width="40%"/>
 
 ---
 
